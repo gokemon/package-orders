@@ -1,8 +1,16 @@
 {
     "name": "package-orders",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": "Michael Gokey",
     "description": "a node api back-end for an order packing tracking system",
+    "keywords": [
+        "node",
+        "angular",
+        "drupal",
+        "heroku",
+        "express"
+    ],
+    "homepage": "https://github.com/gokemon/package-orders",
     "license": "MIT",
     "main": "server.js",
     "scripts": {
@@ -16,7 +24,6 @@
     },
     "dependencies": {
         "body-parser": "1.15.0",
-
         "ejs": "^2.5.5",
         "errorhandler": "1.4.3",
         "express": "4.13.4",

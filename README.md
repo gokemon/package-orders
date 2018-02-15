@@ -56,3 +56,5 @@ The truck is of course "closed" and locked, with the time and user being recorde
 
 From here, my ideas on where the truck go, and how the package arrives at the customers location is a bit foggy. 
 
+
+I think I will use a drupal ecom or magento system as my core, and use its APIs for my front-ends. In this case, I have Customer Ordering systems as a front-end UI, but also all the employees who interact with this order package have UI's of some kind.
